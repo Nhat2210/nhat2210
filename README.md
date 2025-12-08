@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **HaNoi University of Industry**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **React, Vue**
 
