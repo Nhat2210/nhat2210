@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Vue**
 
-- 📫 How to reach me **anhnhat22102003@gmail.com**
+- 📫 How to reach me **nhatcaofedev@gmail.com**
 
 - ⚡ Fun fact **I love cat**
 
