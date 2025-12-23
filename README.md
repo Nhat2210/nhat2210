@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhat2210&label=Profile%20views&color=0e75b6&style=flat" alt="nhat2210" /> </p>
 
-- 🔭 I’m currently working on **HaNoi University of Industry**
+- 🔭 I graduated from **HaNoi University of Industry**
 
 - 🌱 I’m currently learning **NestJS**
 
