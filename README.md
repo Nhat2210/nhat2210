@@ -8,7 +8,7 @@
 
 - 🔭 I graduated from **HaNoi University of Industry**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Flutter <3**
 
 - 💬 Ask me about **React, Vue**
 
